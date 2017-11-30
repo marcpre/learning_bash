@@ -8,4 +8,10 @@
 
 ### Remove an empty directory
 
-````rmdir test```
+```rmdir test```
+
+## Apache
+
+### Get Apache Version
+
+```apache2 -v```
